@@ -1,0 +1,18 @@
+#OS_FILE
+
+*.DS_Store
+*.DS_Store?
+_*
+
+*.tex
+*.log
+*.aux
+*.synctex.gz
+*.pyc
+nohup.out
+#Jeux de données
+
+data
+
+#images
+

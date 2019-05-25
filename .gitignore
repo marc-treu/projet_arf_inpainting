@@ -10,9 +10,4 @@ _*
 *.synctex.gz
 *.pyc
 nohup.out
-#Jeux de données
-
-data
-
-#images
 
